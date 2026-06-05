@@ -4,6 +4,14 @@ Code for analyzing TriNetX cohort with hypercapnia
 
 ## Repository Notes
 
+### Description
+
+Code for analyzing TriNetX cohort with hypercapnia
+
+### Repository Layout
+
+- `main.py`
+
 ### Project Status
 
 No public manuscript version is linked. Keep documentation to repository summaries and do not add manuscript text.
